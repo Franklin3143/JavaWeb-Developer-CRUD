@@ -17,7 +17,7 @@ Você foi escolhido para escrever uma tela de Cadastro de Produtos (CRUD) que fa
 
 O usuário após logar no sistema selecionará a opção "Produto" no menu "Cadastros" na barra de menus.
 
-## Seguem os requisitos:
+## Requisitos
 
 * A stack de tecnologia a ser utilizada é Java (ou Kotlin) + Angular 7 ou Superior + Spring Boot (com Gradle ou Maven)
 * O sistema é composto por 2 microsserviços: Serviço Web (Angular) + Serviço Api  (Spring Boot)
@@ -25,6 +25,11 @@ O usuário após logar no sistema selecionará a opção "Produto" no menu "Cada
 * Construir um agendamento para consultar os departamentos dos produtos no endpoint especificado na sessão [API com os Departamentos](#api-de-departamentos) 
 * Documento descrevendo o processo de instalação do sistema
 * O fluxo de autenticação é opcional, o mesmo poderá ser mockado para andamento do projeto
+
+### Detalhamento
+
+* Após clicar no menu "Cadastros" -> "Produto" o usuário será direcionado para a tela de inicial de Produtos. Vide mock a seguir ![alt aqui](https://github.com/talentosmaxima/JavaWeb-Developer/blob/main/Mock%20Tela.png?raw=true)
+
 
 ## API de Departamentos
 A lista de departamentos está disponível via API. A documentação da API está no [Apiary](https://maximatech.docs.apiary.io/#reference/0/fullstack/departamento)
