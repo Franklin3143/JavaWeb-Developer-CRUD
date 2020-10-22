@@ -27,7 +27,7 @@ O usuário após logar no sistema selecionará a opção "Produto" no menu "Cada
 * O fluxo de autenticação é opcional, o mesmo poderá ser mockado para andamento do projeto
 
 ## API de Departamentos
-A lista de departamentos está disponível via API. A documentação da API está no [Apiary](https://maximatech.docs.apiary.io/#reference/0/fullstack/)
+A lista de departamentos está disponível via API. A documentação da API está no [Apiary](https://maximatech.docs.apiary.io/#reference/0/fullstack/departamento)
 
 ## Diferenciais
 
