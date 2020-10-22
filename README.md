@@ -29,6 +29,15 @@ O usuário após logar no sistema selecionará a opção "Produto" no menu "Cada
 ### Detalhamento
 
 * Segue uma sugestão de layout ![alt aqui](https://github.com/talentosmaxima/JavaWeb-Developer/blob/main/Mock%20Tela.png?raw=true)
+* Quando o usuário clicar no botão Editar, coluna Ações, o usuário será direcionado para a tela de Edição.
+* Campos da Tela
+** ID           - Identificador do Produto       -  UUID
+** Código       - Código apresentável ao usuário -  Texto
+** Descrição    - Descrição do Produto           -  Texto
+** Departamento - Lista de departamentos         -  Caixa de Seleção
+** Preço        - Preço do Produto               -  Decimal
+** Status       - Ativo / Inativo                -  True/False - Booleano
+** Ações        - Editar / Excluir               -  A exclusão é lógica e não física
 
 
 ## API de Departamentos
