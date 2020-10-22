@@ -31,15 +31,13 @@ O usuário após logar no sistema selecionará a opção "Produto" no menu "Cada
 * Segue uma sugestão de layout ![alt aqui](https://github.com/talentosmaxima/JavaWeb-Developer/blob/main/Mock%20Tela.png?raw=true)
 * Quando o usuário clicar no botão Editar, coluna Ações, o usuário será direcionado para a tela de Edição.
 * Campos da Tela
-<!--ts-->
-** ID           - Identificador do Produto       -  UUID
-** Código       - Código apresentável ao usuário -  Texto
-** Descrição    - Descrição do Produto           -  Texto
-** Departamento - Lista de departamentos         -  Caixa de Seleção
-** Preço        - Preço do Produto               -  Decimal
-** Status       - Ativo / Inativo                -  True/False - Booleano
-** Ações        - Editar / Excluir               -  A exclusão é lógica e não física
-<!--te-->
+  * ID           - Identificador do Produto       -  UUID
+  * Código       - Código apresentável ao usuário -  Texto
+  * Descrição    - Descrição do Produto           -  Texto
+  * Departamento - Lista de departamentos         -  Caixa de Seleção
+  * Preço        - Preço do Produto               -  Decimal
+  * Status       - Ativo / Inativo                -  True/False - Booleano
+  * Ações        - Editar / Excluir               -  A exclusão é lógica e não física
 
 ## API de Departamentos
 A lista de departamentos está disponível via API. A documentação da API está no [Apiary](https://maximatech.docs.apiary.io/#reference/0/fullstack/departamento)
