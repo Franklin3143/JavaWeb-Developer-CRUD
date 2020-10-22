@@ -28,7 +28,7 @@ O usuário após logar no sistema selecionará a opção "Produto" no menu "Cada
 
 ### Detalhamento
 
-* Após clicar no menu "Cadastros" -> "Produto" o usuário será direcionado para a tela de inicial de Produtos. Vide mock a seguir ![alt aqui](https://github.com/talentosmaxima/JavaWeb-Developer/blob/main/Mock%20Tela.png?raw=true)
+* Segue uma sugestão de layout ![alt aqui](https://github.com/talentosmaxima/JavaWeb-Developer/blob/main/Mock%20Tela.png?raw=true)
 
 
 ## API de Departamentos
